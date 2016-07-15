@@ -1,4 +1,4 @@
 @RestController
 public class IndexController{
-    private String hello = "Hello world!";
+    private Sring hello = "Hello world!";
 }
